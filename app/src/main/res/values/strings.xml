@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">ContentProvider</string>
+
+    <!-- activity_main -->
+    <string name="button_text_remove">Remove</string>
+
+    <!-- note_detail -->
+    <string name="input_text_title">Title</string>
+    <string name="input_text_description">Description</string>
+    
+    <!-- NotesDetailFragment -->
+    <string name="alert_title">New note</string>
+    <string name="alert_update">Update note</string>
+    <string name="alert_positive_button">Save</string>
+    <string name="alert_negative_button">Cancel</string>
 </resources>
